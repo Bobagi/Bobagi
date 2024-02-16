@@ -3,6 +3,8 @@
 My name is Gustavo, and I'm a Brazilian programmer who quit his job to explore different areas of development and figure out the next steps in life.  
 🌱 Currently, I am focusing on learning Python, Linux, and Vue.  
 
+[Bobagi.net](https://bobagi.net/)
+
 ## Buy me a coffee ☕❤️
 
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
