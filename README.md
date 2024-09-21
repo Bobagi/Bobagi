@@ -4,9 +4,8 @@ My name is Gustavo, and i'm a Brazilian programmer. I like to explore different 
 🌱 Currently, I am focusing on learning Python, Linux, and Vue.  
 
 <a href="https://bobagi.net/">
-    <img src="https://bobagi.net/bobagiCursiveTransp.png" alt="Bobagi" width="50"/>
+    <img src="https://bobagi.net/bobagiCursive.png" alt="Bobagi" width="50"/>
 </a>
-
 
 ### Buy me a coffee ☕❤️
 
