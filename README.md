@@ -3,8 +3,8 @@
 My name is Gustavo, and i'm a Brazilian programmer. I like to explore different areas of development and figure out the next steps in life. 
 🌱 Currently, I am focusing on learning Python, Linux, and Vue.  
 
-<a href="https://bobagi.net/">
-    <img src="https://bobagi.net/bobagiCursive.png" alt="Bobagi" width="50"/>
+<a href="https://bobagi.click/">
+    <img src="https://bobagi.click/bobagiCursive.png" alt="Bobagi" width="50"/>
 </a>
 
 ### Buy me a coffee ☕❤️
