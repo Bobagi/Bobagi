@@ -5,7 +5,7 @@ My name is Gustavo, and i'm a Brazilian programmer. I like to explore different 
 
 <a href="https://bobagi.click/" target="_blank">
     <img src="https://bobagi.click/bobagiCursive.png" alt="Bobagi" width="50"/>
-</a>
+</a> - Website temporarily offline
 
 ### Buy me a coffee ☕❤️
 
