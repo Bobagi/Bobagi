@@ -1,7 +1,9 @@
 <h1 align="center">Gustavo Perin — Software Engineer</h1>
 
 <p align="center">
-  <img src="https://bobagi.click/bobagiCursive.png" width="120" alt="Bobagi logo"/>
+  <a href="https://bobagi.click" target="_blank">
+    <img src="https://bobagi.click/bobagiCursive.png" width="120" alt="Bobagi logo"/>
+  </a>
 </p>
 
 <p align="center">
